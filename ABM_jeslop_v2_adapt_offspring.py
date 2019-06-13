@@ -2,7 +2,7 @@
 """
 Created on Mon May 27 17:25:12 2019
 
-@author: Jesus, based on @javiergaleano
+@author: @jeslop013, based on @javiergaleano
 """
 
 # bibliotecas
